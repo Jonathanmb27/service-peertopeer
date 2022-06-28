@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: peertopeer-service
+  cloud:
+    config:
+      uri: http://localhost:8082
+      username: nttdata
+      password: 123456
